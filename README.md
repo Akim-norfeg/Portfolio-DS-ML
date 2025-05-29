@@ -10,7 +10,7 @@
    **Описание:** Обучена модель классификации токсичных комментариев с лемматизацией, TF-IDF и BERT-векторизацией, гиперпараметрическим подбором и оценкой по метрике F1.  
    **Стек:** `pandas`, `re`, `warnings`, `numpy`, `matplotlib`, `seaborn`, `spacy`, `pymystem3`, `nltk`, `scikit-learn` (Pipeline, TfidfVectorizer, LogisticRegression, LinearSVC, GridSearchCV), `xgboost`, `torch`, `transformers`, `tqdm`
 
-## 3. [3. Прогноз снижения активности клиентов интернет-магазина](https://github.com/Akim-norfeg/Portfolio-DS-ML/blob/main/projects%20ds%20ml/Прогноз%20снижения%20активности%20клиентов%20интернет-магазина.ipynb)  
+## 3. [Прогноз снижения активности клиентов интернет-магазина](https://github.com/Akim-norfeg/Portfolio-DS-ML/blob/main/projects%20ds%20ml/Прогноз%20снижения%20активности%20клиентов%20интернет-магазина.ipynb)  
    **Описание:** Построена и оптимизирована классификационная модель для предсказания снижения покупательской активности клиентов с анализом важности признаков.  
    **Стек:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `shap`, `scikit-learn` (GridSearchCV, RandomizedSearchCV, ColumnTransformer, OneHotEncoder, OrdinalEncoder, SimpleImputer, LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier)
 
